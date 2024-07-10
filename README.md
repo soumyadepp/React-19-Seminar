@@ -6,3 +6,5 @@ Reference: https://react.dev/blog/2024/04/25/react-19
 ## Also refer: 
 https://github.com/bradtraversy/react-19-playground
 
+## Deployed web app
+https://react-19-seminar.web.app/
